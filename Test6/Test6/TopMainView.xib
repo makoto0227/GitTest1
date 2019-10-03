@@ -25,6 +25,13 @@
                         <action selector="touchedButton:" destination="-1" eventType="touchUpInside" id="mY8-Za-tmd"/>
                     </connections>
                 </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="C4i-1m-KLd">
+                    <rect key="frame" x="184" y="260" width="42" height="21"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
             </subviews>
             <color key="backgroundColor" red="0.96995578370000002" green="1" blue="0.52352208109999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <constraints>
